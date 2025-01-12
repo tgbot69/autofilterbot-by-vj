@@ -52,11 +52,11 @@ async def auto_approve(client, message: ChatJoinRequest):
                     buttons = [[
                         InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                     ],[
-                        InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
+                      #  InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
                         InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
                     ],[
                         InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
-                        InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
+                      #  InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                     ],[
                         InlineKeyboardButton('🔻 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ 🔻', callback_data='subscription')
                     ],[
@@ -66,11 +66,11 @@ async def auto_approve(client, message: ChatJoinRequest):
                     buttons = [[
                         InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                     ],[
-                        InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
+                      #  InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
                         InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
                     ],[
                         InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
-                        InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
+                      #  InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                     ],[
                         InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                     ]]
