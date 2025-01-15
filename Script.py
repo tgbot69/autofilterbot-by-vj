@@ -4,7 +4,6 @@
 
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
-    
 Send Me Movie/Series Name 🎬
 Than See A Magic 🪄</b>"""
 
@@ -264,7 +263,6 @@ IMDb Data:
 📀 RunTime: {runtime} Minutes
 📆 Release Info : {release_date}
 🎛 Countries : <code>{countries}</code>
-
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
